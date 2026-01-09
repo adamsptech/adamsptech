@@ -57,3 +57,11 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adamsptech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Adam's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adamsptech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+---
