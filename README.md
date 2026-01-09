@@ -14,18 +14,11 @@
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
 </div>
 
----
-
-### 👨‍💻 About Me
-
-I am an **Informatics graduate** from **Sanata Dharma University**, currently working as a **Technician** in the security technology industry. I have a strong passion for modern web development and IT infrastructure management.
-
-- 🔭 I’m currently working on **SimpanBase**, a CMMS project built with the latest Laravel ecosystem.
-- 🌱 I’m currently learning: **Laravel 12**, **Filament 4.4**, and **IT Automation** (PowerShell/Bash).
-- ⚙️ Hobbies: Tinkering with **Servers/Home Labs**, Custom Mechanical Keyboards, and playing Racing Master.
+  <div align="center">
+   <img src="https://komarev.com/ghpvc/?username=adamsptech&style=flat-square&color=blueviolet" alt="Profile views" />
+</div>
 
 ---
 
@@ -64,19 +57,3 @@ I am an **Informatics graduate** from **Sanata Dharma University**, currently wo
 
 ---
 
-<h3>My GitHub contributions summary</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adamsptech&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adamsptech&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamsptech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Adam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsptech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
- <img src="https://komarev.com/ghpvc/?username=adamsptech&style=flat-square&color=blueviolet" alt="Profile views" />
-</div>
