@@ -8,15 +8,29 @@
     Based in <b>Karawang, Indonesia</b> 🇮🇩
   </p>
 
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://adamsputra.my.id/">
+    <img src="https://img.shields.io/badge/Portfolio-adamsputra.my.id-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <a href="https://www.recehlabs.my.id/">
+    <img src="https://img.shields.io/badge/Studio-Receh_Labs-blueviolet?style=for-the-badge&logo=android&logoColor=white" alt="Receh Labs Website" />
+  </a>
+
+  <br /> <a href="https://www.linkedin.com/in/adamsputra/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:addm097@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
 </div>
 
-  <div align="center">
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=adamsptech&style=flat-square&color=blueviolet" alt="Profile views" />
+</div>
+
+---
+
+<div align="center">
    <img src="https://komarev.com/ghpvc/?username=adamsptech&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
 
