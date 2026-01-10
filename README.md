@@ -34,6 +34,8 @@
 
 **Mobile & Others**
 <br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -52,6 +54,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| **Satset WA** | WhatsApp productivity tool featuring Direct Chat, Scanner, Bulk Sender, and Scheduled Reminders. | `Flutter` `Dart` `Google ML Kit` |
 | **SimpanBase** | Computerized Maintenance Management System (CMMS) & Asset Management. Ported from CI4 to Laravel. | `Laravel 12` `Filament 4.4` `SQLite` |
 | **IT Automation** | Collection of PowerShell & Bash scripts for automated server configuration (Firewall, Zabbix Agent). | `PowerShell` `Bash` |
 
