@@ -8,11 +8,11 @@
     Based in <b>Karawang, Indonesia</b> 🇮🇩
   </p>
 
-  <a href="https://adamsputra.my.id/">
-    <img src="https://img.shields.io/badge/About-adamsputra.my.id-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="About Me" />
-  </a>
   <a href="https://www.recehlabs.my.id/">
     <img src="https://img.shields.io/badge/Studio-Receh_Labs-blueviolet?style=for-the-badge&logo=android&logoColor=white" alt="Receh Labs Website" />
+  </a>
+  <a href="https://adamsputra.my.id/">
+    <img src="https://img.shields.io/badge/About-Me-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="About Me" />
   </a>
 
   <br /> <a href="https://www.linkedin.com/in/adamsputra/">
