@@ -9,7 +9,7 @@
   </p>
 
   <a href="https://adamsputra.my.id/">
-    <img src="https://img.shields.io/badge/Portfolio-adamsputra.my.id-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="About Me" />
+    <img src="https://img.shields.io/badge/About-adamsputra.my.id-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="About Me" />
   </a>
   <a href="https://www.recehlabs.my.id/">
     <img src="https://img.shields.io/badge/Studio-Receh_Labs-blueviolet?style=for-the-badge&logo=android&logoColor=white" alt="Receh Labs Website" />
